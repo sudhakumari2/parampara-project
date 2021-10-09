@@ -1,0 +1,16 @@
+{
+  "name": "mvc",
+  "version": "1.0.0",
+  "description": "exprees_with_mvc_pattern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sudha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.11",
+    "nodemon": "^2.0.13"
+  }
+}
